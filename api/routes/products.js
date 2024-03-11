@@ -99,7 +99,7 @@ router.delete('/:productId', (req, res, next) => {
                 type: 'POST',
                 url: 'http://localhost:3000/products',
                 body: {name: 'String', price: 'Number'}
-            
+            }
         });
     })
     .catch(err => {
