@@ -76,7 +76,12 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# VS Code settings
 .vscode/
+.dynamodb/
+
+
+/.vscode/
 ```
 /node_modules
 ```
