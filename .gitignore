@@ -85,3 +85,5 @@ dist
 ```
 /node_modules
 ```
+
+nodemon.json
